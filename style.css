@@ -72,7 +72,7 @@
 }
 
 .ex-7-img:hover, .ex-8-img:hover, .ex-9-img:hover{
-    filter: grayscale(1);
+    filter: grayscale(.5) sepia(.8);
 }
 
 .ex-8-img:hover, .ex-9-img:hover{
